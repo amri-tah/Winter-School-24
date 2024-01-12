@@ -1,4 +1,4 @@
-# Winter School 2024 🤖
+# Winter School on Applications of LLMs 2024 ❄️
 
 Repository for the Winter School on Applications of LLMs 2024 by Amrita School of AI, featuring Jupyter notebook files for hands-on sessions taken by me on Introduction to Hugging Face transformers and Vision-Language Models like CLIP, BLIP, and LLaVA. 🤖✨
 
